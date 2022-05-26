@@ -1,0 +1,56 @@
+[
+	[
+		{
+			"speaker" : "menteith",
+			"dialog" : "The English power is near, led on by Malcolm, His uncle Siward and the good Macduff: Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm. Excite the mortified man.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "angus",
+			"dialog" : "Near Birnam wood. Shall we well meet them; that way are they coming.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "caithness",
+			"dialog" : "Who knows if Donalbain be with his brother?",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "lennox",
+			"dialog" : "For certain, sir, he is not: I have a file. Of all the gentry: there is Siward's son. And many unrough youths that even now protest their first of manhood.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "menteith",
+			"dialog" : "What does the tyrant?",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "caithness",
+			"dialog" : "Great Dunsinane he strongly fortifies: Some say he's mad; others that lesser hate him do call it valiant fury: but, for certain, he cannot buckle his distemper'd cause within the belt of rule.",
+			"newSpeaker": "true"
+		}
+	],
+	[
+		{
+			"speaker" : "angus",
+			"dialog" : "Now does he feel his secret murders sticking on his hands; now minutely revolts upbraid his faith-breach; those he commands move only in command, nothing in love: now does he feel his title hang loose about him, like a giant's robe upon a dwarfish thief.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "menteith",
+			"dialog" : "Who then shall blame his pester'd senses to recoil and start, when all that is within him does condemn itself for being there?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "caithness",
+			"dialog" : "Well, march we on, to give obedience where 'tis truly owed: Meet we the medicine of the sickly weal, and with him pour we in our country's purge each drop of us.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "lennox",
+			"dialog" : "Or so much as it needs, to dew the sovereign flower and drown the weeds. Make we our march towards Birnam.",
+			"newSpeaker" : "true"
+		}
+	]
+]

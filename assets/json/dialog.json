@@ -1,13 +1,14 @@
 [
 	[
 		{
-			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"speaker" : "jove",
+			"dialog" : "Tell me, O muse, of that ingenious hero who did eat many donuts.",
 			"newSpeaker" : "true"
 		},
 		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "homer",
